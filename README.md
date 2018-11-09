@@ -78,5 +78,5 @@ Let’s share server
 
 >npm install --save @angular/fire firebase
 
->>>>>https://github.com/angular/angularfire2/blob/master/docs/install-and-setup.md ****** how to install firebase to app
+>>>>>https://github.com/angular/angularfire2/blob/master/docs/install-and-setup.md ****** how to install firebase to app.
 
