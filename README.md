@@ -26,4 +26,57 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-hello
+##hello
+
+FIREBASE = FREE SERVER
+
+you can share your app to public
+
+Command prompt
+
+>npm install -g firebase-tools  *****
+
+>cd to folder project
+
+>firebase login
+
+>firebase init 
+
+วรรค database and hosting แล้ว เอ็นเตอ
+
+==database.rules.json (override: y )
+
+==public directory: dist/ng-fire 
+
+==configure as SPA (y)
+
+==dist/ng-fire/index.html overwrite (N)
+
+>ng build --prod  if already build do not write ***
+
+>firebase deploy
+
+>code .
+
+Open new cmd 
+
+>cd ng-fire
+
+>ng build --prod
+
+>firebase deploy
+
+enter website hosting
+
+Let’s share server
+
+***>firebase database*** up to server
+
+------------------------------------------------------------------------------
+
+>npm install --save @angular/fire
+
+>npm install --save @angular/fire firebase
+
+>>>>>https://github.com/angular/angularfire2/blob/master/docs/install-and-setup.md ****** how to install firebase to app
+
